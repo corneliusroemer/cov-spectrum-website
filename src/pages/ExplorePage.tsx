@@ -40,7 +40,7 @@ export const ExplorePage = ({
 }: Props) => {
   return (
     <>
-      <b>Hi Vercel.</b>
+      <b>Hi Vercel 2.</b>
       <SequencingIntensityPlotWidget.ShareableComponent
         title='Sequencing intensity'
         sequencingIntensityEntrySet={sequencingIntensityEntrySet}
